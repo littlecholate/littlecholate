@@ -1,55 +1,41 @@
-## Hi there 👋
+## 🎯 My Project Collection
 
-# 🎯 My Project Collection
+Hello 👋 This repo is basically a **hub** for all my projects.  
+I’ve grouped things into four main collections:
+- 🤖 Bots / Tools
+- 🌐 Websites
+- 📺 Streaming / Media 
+- 🎨 Startup
 
-Welcome! This repo is basically a **hub** for all my projects.  
-Think of it like the lobby of a game — you pick a door and jump into the world of that project.  
-
-I’ve grouped things into four main collections:  
-- 🤖 Discord Bots  
-- 🌐 Websites  
-- 📺 Streaming / Media  
-- 🎨 Computer Graphics  
-
-Each project link includes a short intro + main skills/tech I used.  
+Each project includes a short intro + main skills/tech I used. Please enjoy ~
 
 ---
 
-## 🤖 Discord Bots
-| Project | What it does | Skills / Tech |
-|---------|--------------|----------------|
-| [Horn Bot](https://github.com/yourname/horn-bot) | A fun Discord bot that listens and replies in specific channels. | **Node.js**, Discord.js, REST APIs |
-| [Translation Bot](https://github.com/yourname/translation-bot) | Auto-translates chat messages in Discord. | **JavaScript**, Discord.js, Google Translate API |
+## 🤖 Bots / Tools
+| Project | What it does | Skills / Tech | Time |
+|---------|--------------|---------------|------|
+| [Video to PPT](https://github.com/littlecholate/video-to-ppt) | Change Youtube video to powerpoint. | **Python**, Tkinter | Sep, 2022 |
+| [PJSK Bot](https://github.com/littlecholate/sekai-bot) | Discord bot that plays with friends on PJSK gaming channels. | **Node.js**, Discord.js | Aug, 2025 |
 
 ---
 
 ## 🌐 Websites
-| Project | What it does | Skills / Tech |
-|---------|--------------|----------------|
-| [Photo Portfolio](https://github.com/yourname/photo-portfolio) | Personal website for gaming & travel photos. | **Next.js**, AWS S3, PostgreSQL |
-| [SoulStack](https://github.com/yourname/soulstack) | Life-logging platform (gaming, travel, music). | **React**, Supabase, Node.js |
+| Project | What it does | Skills / Tech | Time |
+|---------|--------------|---------------|------|
 
 ---
 
 ## 📺 Streaming / Media
-| Project | What it does | Skills / Tech |
-|---------|--------------|----------------|
-| [Raspberry Pi Streamer](https://github.com/yourname/pi-streamer) | Captures images on Pi, streams with WebRTC. | **Python**, AWS, MQTT, WebRTC |
-| [Live Dashboard](https://github.com/yourname/live-dashboard) | Real-time event monitoring dashboard. | **Node.js**, Kafka, Grafana |
+| Project | What it does | Skills / Tech | Time |
+|---------|--------------|---------------|------|
+| [Switch Remote Play](https://github.com/littlecholate/switch-remote-play) | Nitendo Switch Remote Play (Play with friends living in different cities). | **Javascript**, WebRTC | Sep, 2021 |
+| [Audio Visualizer](https://github.com/littlecholate/audio-visualizer) | Desktop clock that makes a visual response based on the frequency amplitude of the playing music. | **Node.js**, P5.js | Dec, 2021 |
 
 ---
 
-## 🎨 Computer Graphics
-| Project | What it does | Skills / Tech |
-|---------|--------------|----------------|
-| [WebGL Playground](https://github.com/yourname/webgl-playground) | A playground for 3D rendering experiments. | **Three.js**, OpenGL basics |
-| [Procedural Terrain](https://github.com/yourname/terrain-gen) | Procedural terrain generator with shaders. | **JavaScript**, GLSL, Perlin noise |
-
----
-
-## 📝 Notes
-- This is my **personal project hub** — I keep it simple, but feel free to explore deeper in each repo.  
-- Most projects started as side quests to learn something new 🚀  
-- Tech stack varies, but overall you’ll see a mix of **JavaScript/TypeScript, Python, cloud tools, and graphics frameworks**.  
+## 🎨 Startup
+| Project | What it does | Skills / Tech | Time |
+|---------|--------------|---------------|------|
+| [OpenGL Startup](https://github.com/littlecholate/opengl-startup) | Cross-platform OpenGL startup with glad and glfw3. | **C++**, OpenGL | Nov, 2023 |
 
 ---
