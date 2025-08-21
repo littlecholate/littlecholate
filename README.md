@@ -15,7 +15,7 @@ Each project includes a short intro + main skills/tech I used. Please enjoy ~
 | Project | What it does | Skills / Tech | Time |
 |---------|--------------|---------------|------|
 | [Video to PPT](https://github.com/littlecholate/video-to-ppt) | Change Youtube video to powerpoint. | **Python**, Tkinter | Sep, 2022 |
-| [PJSK Bot](https://github.com/littlecholate/sekai-bot) | Discord bot that plays with friends on PJSK gaming channels. | **Node.js**, Discord.js | Aug, 2025 |
+| [PJSK Bot](https://github.com/littlecholate/sekai-bot) | Discord bot plays with friends on PJSK gaming channels. | **Node.js**, Discord.js | Aug, 2025 |
 
 ---
 
@@ -29,7 +29,7 @@ Each project includes a short intro + main skills/tech I used. Please enjoy ~
 | Project | What it does | Skills / Tech | Time |
 |---------|--------------|---------------|------|
 | [Switch Remote Play](https://github.com/littlecholate/switch-remote-play) | Nitendo Switch Remote Play (Play with friends living in different cities). | **Javascript**, WebRTC | Sep, 2021 |
-| [Audio Visualizer](https://github.com/littlecholate/audio-visualizer) | Desktop clock that makes a visual response based on the frequency amplitude of the playing music. | **Node.js**, P5.js | Dec, 2021 |
+| [Audio Visualizer](https://github.com/littlecholate/audio-visualizer) | Desktop clock responds visually to music. | **Node.js**, P5.js | Dec, 2021 |
 
 ---
 
