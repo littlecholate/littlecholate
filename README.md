@@ -22,7 +22,7 @@ Each project includes a short intro + main skills/tech I used. Please enjoy ~
 ## 🌐 Websites
 | Project | What it does | Skills / Tech | Time |
 |---------|--------------|---------------|------|
-| [Infinite Image Gallery Component](https://github.com/littlecholate/image-gallery) | An image gallery component for Next.js. | **Next.js**, Supabase, GCP | Oct, 2025 |
+| [Image Gallery Component](https://github.com/littlecholate/image-gallery) | An image gallery component for Next.js. | **Next.js**, Supabase, GCP | Oct, 2025 |
 
 ---
 
